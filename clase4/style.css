@@ -1,0 +1,39 @@
+.estilo_par{
+    color: red;
+}
+.estilo_impar{
+    color: rgb(0, 255, 0);
+}
+/* styles.css */
+
+.table {
+    display: inline-block;
+    margin-right: 20px; 
+}
+
+
+
+
+.temperature {
+    font-size: 16px; 
+    color: black; 
+}
+
+
+.Redness-0 {
+    color: rgb(0, 0, 0); /* Black */
+}
+
+.Redness-1 {
+    color: rgb(25, 0, 0);
+}
+
+.Redness-2 {
+    color: rgb(50, 0, 0);
+}
+
+.Redness-3 {
+    color: rgb(75, 0, 0);
+}
+
+/* Add more classes for higher redness levels as needed */
